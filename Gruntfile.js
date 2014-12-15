@@ -29,8 +29,7 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'stylesheets/base.css': 'stylesheets/sass/base.sass',
-          'stylesheets/project.css': 'stylesheets/sass/project.sass',
-          'stylesheets/icons.css': 'stylesheets/sass/icons.sass'
+          'stylesheets/project.css': 'stylesheets/sass/project.sass'
         }
       }
     },
