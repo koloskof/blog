@@ -1,0 +1,105 @@
+/* Colors */
+/* /Colors */
+/* Fonts */
+/* /Fonts */
+body {
+  font-family: "PT Serif", serif;
+  line-height: 1.4em; }
+
+a {
+  color: #1a1a1a; }
+  a:hover {
+    text-decoration: none; }
+
+p {
+  font-family: 16px;
+  margin-bottom: 24px; }
+  p.description {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 30px; }
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  line-height: 1.4em; }
+
+h2 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 40px;
+  margin-bottom: 24px;
+  line-height: 1.4em;
+  font-style: italic; }
+
+h2 {
+  font-family: "PT Serif", serif;
+  font-size: 24px;
+  margin-bottom: 24px;
+  line-height: 1.4em; }
+
+h3 {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  line-height: 25px;
+  margin-bottom: 10px;
+  font-style: italic; }
+
+ol {
+  margin: 12px 0px 12px 24px; }
+  ol li {
+    margin-bottom: 6px; }
+
+ul {
+  margin: 12px 0px 12px 36px; }
+  ul li {
+    list-style: disc;
+      list-style-margin-bottom: 6px; }
+
+.wrapper {
+  padding-top: 30px; }
+
+.container {
+  max-width: 960px; }
+
+.me {
+  text-align: right; }
+
+.me_photo {
+  border-radius: 50%;
+  display: inline-block;
+  height: 140px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  width: 140px; }
+  .me_photo img {
+    width: 100%; }
+
+.me_description {
+  font-style: italic;
+  font-weight: 100;
+  line-height: 1.4em;
+  margin-bottom: 12px; }
+
+.me_name {
+  font-family: "PT Sans", sans-serif;
+  font-size: 20px;
+  line-height: 25px;
+  margin-bottom: 12px; }
+
+.me_social a {
+  font-size: 24px;
+  margin-left: 6px;
+  text-decoration: none;
+  color: #1a1a1a;
+  line-height: 1.4em; }
+  .me_social a:hover {
+    opacity: 0.8; }
+
+footer {
+  text-align: center;
+  padding: 24px; }
+
+/*# sourceMappingURL=base.css.map */

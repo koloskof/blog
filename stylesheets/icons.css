@@ -1,0 +1,680 @@
+/* Fonts */
+/* /Fonts */
+/* Colors */
+/* /Colors */
+.icon_light.__user_male-25 {
+  background: url("../images/icon_set/25/Users/user_male-25.png") no-repeat; }
+.icon_light.__user_female-25 {
+  background: url("../images/icon_set/25/Users/user_female-25.png") no-repeat; }
+.icon_light.__user_male2-25 {
+  background: url("../images/icon_set/25/Users/user_male2-25.png") no-repeat; }
+.icon_light.__user_female2-25 {
+  background: url("../images/icon_set/25/Users/user_female2-25.png") no-repeat; }
+.icon_light.__user_male3-25 {
+  background: url("../images/icon_set/25/Users/user_male3-25.png") no-repeat; }
+.icon_light.__user_female3-25 {
+  background: url("../images/icon_set/25/Users/user_female3-25.png") no-repeat; }
+.icon_light.__add_user-25 {
+  background: url("../images/icon_set/25/Users/add_user-25.png") no-repeat; }
+.icon_light.__administrator-25 {
+  background: url("../images/icon_set/25/Users/administrator-25.png") no-repeat; }
+.icon_light.__change_user-25 {
+  background: url("../images/icon_set/25/Users/change_user-25.png") no-repeat; }
+.icon_light.__checked_user-25 {
+  background: url("../images/icon_set/25/Users/checked_user-25.png") no-repeat; }
+.icon_light.__conference-25 {
+  background: url("../images/icon_set/25/Users/conference-25.png") no-repeat; }
+.icon_light.__edit_user-25 {
+  background: url("../images/icon_set/25/Users/edit_user-25.png") no-repeat; }
+.icon_light.__find_user-25 {
+  background: url("../images/icon_set/25/Users/find_user-25.png") no-repeat; }
+.icon_light.__group-25 {
+  background: url("../images/icon_set/25/Users/group-25.png") no-repeat; }
+.icon_light.__lifecycle-25 {
+  background: url("../images/icon_set/25/Users/lifecycle-25.png") no-repeat; }
+.icon_light.__remove_user-25 {
+  background: url("../images/icon_set/25/Users/remove_user-25.png") no-repeat; }
+.icon_light.__talk-25 {
+  background: url("../images/icon_set/25/Users/talk-25.png") no-repeat; }
+.icon_light.__student2-25 {
+  background: url("../images/icon_set/25/Users/student2-25.png") no-repeat; }
+.icon_light.__zoom_out-25 {
+  background: url("../images/icon_set/25/Very_Basic/zoom_out-25.png") no-repeat; }
+.icon_light.__zoom_in-25 {
+  background: url("../images/icon_set/25/Very_Basic/zoom_in-25.png") no-repeat; }
+.icon_light.__upload-25 {
+  background: url("../images/icon_set/25/Very_Basic/upload-25.png") no-repeat; }
+.icon_light.__upload_to_cloud-25 {
+  background: url("../images/icon_set/25/Very_Basic/upload_to_cloud-25.png") no-repeat; }
+.icon_light.__upload_to_cloud_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/upload_to_cloud_filled-25.png") no-repeat; }
+.icon_light.__upload_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/upload_filled-25.png") no-repeat; }
+.icon_light.__update-25 {
+  background: url("../images/icon_set/25/Very_Basic/update-25.png") no-repeat; }
+.icon_light.__unlock-25 {
+  background: url("../images/icon_set/25/Very_Basic/unlock-25.png") no-repeat; }
+.icon_light.__unlock_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/unlock_filled-25.png") no-repeat; }
+.icon_light.__undo-25 {
+  background: url("../images/icon_set/25/Very_Basic/undo-25.png") no-repeat; }
+.icon_light.__tones-25 {
+  background: url("../images/icon_set/25/Very_Basic/tones-25.png") no-repeat; }
+.icon_light.__tones_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/tones_filled-25.png") no-repeat; }
+.icon_light.__speech_bubble-25 {
+  background: url("../images/icon_set/25/Very_Basic/speech_bubble-25.png") no-repeat; }
+.icon_light.__speech_bubble_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/speech_bubble_filled-25.png") no-repeat; }
+.icon_light.__shared-25 {
+  background: url("../images/icon_set/25/Very_Basic/shared-25.png") no-repeat; }
+.icon_light.__shared_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/shared_filled-25.png") no-repeat; }
+.icon_light.__share-25 {
+  background: url("../images/icon_set/25/Very_Basic/share-25.png") no-repeat; }
+.icon_light.__settings-25 {
+  background: url("../images/icon_set/25/Very_Basic/settings-25.png") no-repeat; }
+.icon_light.__settings_wrench-25 {
+  background: url("../images/icon_set/25/Very_Basic/settings_wrench-25.png") no-repeat; }
+.icon_light.__settings_wrench_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/settings_wrench_filled-25.png") no-repeat; }
+.icon_light.__settings_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/settings_filled-25.png") no-repeat; }
+.icon_light.__search-25 {
+  background: url("../images/icon_set/25/Very_Basic/search-25.png") no-repeat; }
+.icon_light.__reload-25 {
+  background: url("../images/icon_set/25/Very_Basic/reload-25.png") no-repeat; }
+.icon_light.__redo-25 {
+  background: url("../images/icon_set/25/Very_Basic/redo-25.png") no-repeat; }
+.icon_light.__paper_clip-25 {
+  background: url("../images/icon_set/25/Very_Basic/paper_clip-25.png") no-repeat; }
+.icon_light.__opened_folder-25 {
+  background: url("../images/icon_set/25/Very_Basic/opened_folder-25.png") no-repeat; }
+.icon_light.__opened_folder_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/opened_folder_filled-25.png") no-repeat; }
+.icon_light.__lock-25 {
+  background: url("../images/icon_set/25/Very_Basic/lock-25.png") no-repeat; }
+.icon_light.__lock_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/lock_filled-25.png") no-repeat; }
+.icon_light.__key-25 {
+  background: url("../images/icon_set/25/Very_Basic/key-25.png") no-repeat; }
+.icon_light.__key_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/key_filled-25.png") no-repeat; }
+.icon_light.__home-25 {
+  background: url("../images/icon_set/25/Very_Basic/home-25.png") no-repeat; }
+.icon_light.__home_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/home_filled-25.png") no-repeat; }
+.icon_light.__folder-25 {
+  background: url("../images/icon_set/25/Very_Basic/folder-25.png") no-repeat; }
+.icon_light.__folder_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/folder_filled-25.png") no-repeat; }
+.icon_light.__flag-25 {
+  background: url("../images/icon_set/25/Very_Basic/flag-25.png") no-repeat; }
+.icon_light.__flag_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/flag_filled-25.png") no-repeat; }
+.icon_light.__download-25 {
+  background: url("../images/icon_set/25/Very_Basic/download-25.png") no-repeat; }
+.icon_light.__download_from_cloud-25 {
+  background: url("../images/icon_set/25/Very_Basic/download_from_cloud-25.png") no-repeat; }
+.icon_light.__download_from_cloud_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/download_from_cloud_filled-25.png") no-repeat; }
+.icon_light.__download_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/download_filled-25.png") no-repeat; }
+.icon_light.__document-25 {
+  background: url("../images/icon_set/25/Very_Basic/document-25.png") no-repeat; }
+.icon_light.__document_filled-25 {
+  background: url("../images/icon_set/25/Very_Basic/document_filled-25.png") no-repeat; }
+.icon_light.__close-25 {
+  background: url("../images/icon_set/25/Very_Basic/close-25.png") no-repeat; }
+.icon_light.__checkmark-25 {
+  background: url("../images/icon_set/25/Very_Basic/checkmark-25.png") no-repeat; }
+.icon_light.__cancel-25 {
+  background: url("../images/icon_set/25/Very_Basic/cancel-25.png") no-repeat; }
+.icon_light.__bookmark-25 {
+  background: url("../images/icon_set/25/Very_Basic/bookmark-25.png") no-repeat; }
+.icon_light.__about-25 {
+  background: url("../images/icon_set/25/Very_Basic/about-25.png") no-repeat; }
+.icon_light.__alarm_clock-25 {
+  background: url("../images/icon_set/25/Time_and_Date/alarm_clock-25.png") no-repeat; }
+.icon_light.__clock-25 {
+  background: url("../images/icon_set/25/Time_and_Date/clock-25.png") no-repeat; }
+.icon_light.__calendar-25 {
+  background: url("../images/icon_set/25/Time_and_Date/calendar-25.png") no-repeat; }
+.icon_light.__today-25 {
+  background: url("../images/icon_set/25/Time_and_Date/today-25.png") no-repeat; }
+.icon_light.__date_from-25 {
+  background: url("../images/icon_set/25/Time_and_Date/date_from-25.png") no-repeat; }
+.icon_light.__date_to-25 {
+  background: url("../images/icon_set/25/Time_and_Date/date_to-25.png") no-repeat; }
+.icon_light.__cut_paper-25 {
+  background: url("../images/icon_set/25/Printing/cut_paper-25.png") no-repeat; }
+.icon_light.__feed_paper-25 {
+  background: url("../images/icon_set/25/Printing/feed_paper-25.png") no-repeat; }
+.icon_light.__printer_door_open-25 {
+  background: url("../images/icon_set/25/Printing/printer_door_open-25.png") no-repeat; }
+.icon_light.__printer_error-25 {
+  background: url("../images/icon_set/25/Printing/printer_error-25.png") no-repeat; }
+.icon_light.__printer_maintenance-25 {
+  background: url("../images/icon_set/25/Printing/printer_maintenance-25.png") no-repeat; }
+.icon_light.__printer_out_of_paper-25 {
+  background: url("../images/icon_set/25/Printing/printer_out_of_paper-25.png") no-repeat; }
+.icon_light.__switch_camera-25 {
+  background: url("../images/icon_set/25/Photo_Video/switch_camera-25.png") no-repeat; }
+.icon_light.__switch_camera_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/switch_camera_filled-25.png") no-repeat; }
+.icon_light.__stack_of_photos-25 {
+  background: url("../images/icon_set/25/Photo_Video/stack_of_photos-25.png") no-repeat; }
+.icon_light.__stack_of_photos-25 {
+  background: url("../images/icon_set/25/Photo_Video/stack_of_photos-25.png") no-repeat; }
+.icon_light.__small_lens-25 {
+  background: url("../images/icon_set/25/Photo_Video/small_lens-25.png") no-repeat; }
+.icon_light.__small_lens_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/small_lens_filled-25.png") no-repeat; }
+.icon_light.__slr_camera-25 {
+  background: url("../images/icon_set/25/Photo_Video/slr_camera-25.png") no-repeat; }
+.icon_light.__slr_camera_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/slr_camera_filled-25.png") no-repeat; }
+.icon_light.__slr_back_side-25 {
+  background: url("../images/icon_set/25/Photo_Video/slr_back_side-25.png") no-repeat; }
+.icon_light.__slr_back_side_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/slr_back_side_filled-25.png") no-repeat; }
+.icon_light.__rotate_camera-25 {
+  background: url("../images/icon_set/25/Photo_Video/rotate_camera-25.png") no-repeat; }
+.icon_light.__rotate_camera_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/rotate_camera_filled-25.png") no-repeat; }
+.icon_light.__remove_image-25 {
+  background: url("../images/icon_set/25/Photo_Video/remove_image-25.png") no-repeat; }
+.icon_light.__remove_image_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/remove_image_filled-25.png") no-repeat; }
+.icon_light.__old_time_camera-25 {
+  background: url("../images/icon_set/25/Photo_Video/old_time_camera-25.png") no-repeat; }
+.icon_light.__old_time_camera_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/old_time_camera_filled-25.png") no-repeat; }
+.icon_light.__large_lens-25 {
+  background: url("../images/icon_set/25/Photo_Video/large_lens-25.png") no-repeat; }
+.icon_light.__large_lens_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/large_lens_filled-25.png") no-repeat; }
+.icon_light.__add_image_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/add_image_filled-25.png") no-repeat; }
+.icon_light.__add_image-25 {
+  background: url("../images/icon_set/25/Photo_Video/add_image-25.png") no-repeat; }
+.icon_light.__cable_release-25 {
+  background: url("../images/icon_set/25/Photo_Video/cable_release-25.png") no-repeat; }
+.icon_light.__camcoder_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/camcoder_filled-25.png") no-repeat; }
+.icon_light.__camcoder_pro_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/camcoder_pro_filled-25.png") no-repeat; }
+.icon_light.__camcoder_pro-25 {
+  background: url("../images/icon_set/25/Photo_Video/camcoder_pro-25.png") no-repeat; }
+.icon_light.__clipperboard-25 {
+  background: url("../images/icon_set/25/Photo_Video/clipperboard-25.png") no-repeat; }
+.icon_light.__edit_image_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/edit_image_filled-25.png") no-repeat; }
+.icon_light.__edit_image-25 {
+  background: url("../images/icon_set/25/Photo_Video/edit_image-25.png") no-repeat; }
+.icon_light.__gallery_filled-25 {
+  background: url("../images/icon_set/25/Photo_Video/gallery_filled-25.png") no-repeat; }
+.icon_light.__gallery-25 {
+  background: url("../images/icon_set/25/Photo_Video/gallery-25.png") no-repeat; }
+.icon_light.__align_center-25 {
+  background: url("../images/icon_set/25/Editing/align_center-25.png") no-repeat; }
+.icon_light.__align_justify-25 {
+  background: url("../images/icon_set/25/Editing/align_justify-25.png") no-repeat; }
+.icon_light.__align_left-25 {
+  background: url("../images/icon_set/25/Editing/align_left-25.png") no-repeat; }
+.icon_light.__align_right-25 {
+  background: url("../images/icon_set/25/Editing/align_right-25.png") no-repeat; }
+.icon_light.__uppercase-25 {
+  background: url("../images/icon_set/25/Editing/uppercase-25.png") no-repeat; }
+.icon_light.__underline-25 {
+  background: url("../images/icon_set/25/Editing/underline-25.png") no-repeat; }
+.icon_light.__type-25 {
+  background: url("../images/icon_set/25/Editing/type-25.png") no-repeat; }
+.icon_light.__strikethrough-25 {
+  background: url("../images/icon_set/25/Editing/strikethrough-25.png") no-repeat; }
+.icon_light.__lowercase-25 {
+  background: url("../images/icon_set/25/Editing/lowercase-25.png") no-repeat; }
+.icon_light.__decrease_font-25 {
+  background: url("../images/icon_set/25/Editing/decrease_font-25.png") no-repeat; }
+.icon_light.__generic_text-25 {
+  background: url("../images/icon_set/25/Editing/generic_text-25.png") no-repeat; }
+.icon_light.__increase_font-25 {
+  background: url("../images/icon_set/25/Editing/increase_font-25.png") no-repeat; }
+.icon_light.__rotation_ccw-25 {
+  background: url("../images/icon_set/25/Editing/rotation_ccw-25.png") no-repeat; }
+.icon_light.__rotation_cw-25 {
+  background: url("../images/icon_set/25/Editing/rotation_cw-25.png") no-repeat; }
+.icon_light.__cut-25 {
+  background: url("../images/icon_set/25/Editing/cut-25.png") no-repeat; }
+.icon_light.__crop-25 {
+  background: url("../images/icon_set/25/Editing/crop-25.png") no-repeat; }
+.icon_light.__wallet-25 {
+  background: url("../images/icon_set/25/Finance/wallet-25.png") no-repeat; }
+.icon_light.__visa_copyrighted-25 {
+  background: url("../images/icon_set/25/Finance/visa_copyrighted-25.png") no-repeat; }
+.icon_light.__credit_card-25 {
+  background: url("../images/icon_set/25/Finance/credit_card-25.png") no-repeat; }
+.icon_light.__card_inserting-25 {
+  background: url("../images/icon_set/25/Finance/card_inserting-25.png") no-repeat; }
+.icon_light.__card_in_use-25 {
+  background: url("../images/icon_set/25/Finance/card_in_use-25.png") no-repeat; }
+.icon_light.__banknotes-25 {
+  background: url("../images/icon_set/25/Finance/banknotes-25.png") no-repeat; }
+.icon_light.__thumb_down-25 {
+  background: url("../images/icon_set/25/Hands/thumb_down-25.png") no-repeat; }
+.icon_light.__thumb_up-25 {
+  background: url("../images/icon_set/25/Hands/thumb_up-25.png") no-repeat; }
+.icon_light.__left_click-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/left_click-25.png") no-repeat; }
+.icon_light.__right_click-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/right_click-25.png") no-repeat; }
+.icon_light.__mouse-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/mouse-25.png") no-repeat; }
+.icon_light.__scrolling-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/scrolling-25.png") no-repeat; }
+.icon_light.__print-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/print-25.png") no-repeat; }
+.icon_light.__micro-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/micro-25.png") no-repeat; }
+.icon_light.__video_camera-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/video_camera-25.png") no-repeat; }
+.icon_light.__wacom_tablet-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/wacom_tablet-25.png") no-repeat; }
+.icon_light.__web_camera-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/web_camera-25.png") no-repeat; }
+.icon_light.__keyboard-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/keyboard-25.png") no-repeat; }
+.icon_light.__laptop-25 {
+  background: url("../images/icon_set/25/Computer_Hardware/laptop-25.png") no-repeat; }
+.icon_light.__back-25 {
+  background: url("../images/icon_set/25/Arrows/back-25.png") no-repeat; }
+.icon_light.__down_left-25 {
+  background: url("../images/icon_set/25/Arrows/down_left-25.png") no-repeat; }
+.icon_light.__down_right-25 {
+  background: url("../images/icon_set/25/Arrows/down_right-25.png") no-repeat; }
+.icon_light.__down-25 {
+  background: url("../images/icon_set/25/Arrows/down-25.png") no-repeat; }
+.icon_light.__down2-25 {
+  background: url("../images/icon_set/25/Arrows/down2-25.png") no-repeat; }
+.icon_light.__down3-25 {
+  background: url("../images/icon_set/25/Arrows/down3-25.png") no-repeat; }
+.icon_light.__down4-25 {
+  background: url("../images/icon_set/25/Arrows/down4-25.png") no-repeat; }
+.icon_light.__forward-25 {
+  background: url("../images/icon_set/25/Arrows/forward-25.png") no-repeat; }
+.icon_light.__left-25 {
+  background: url("../images/icon_set/25/Arrows/left-25.png") no-repeat; }
+.icon_light.__left2-25 {
+  background: url("../images/icon_set/25/Arrows/left2-25.png") no-repeat; }
+.icon_light.__left3-25 {
+  background: url("../images/icon_set/25/Arrows/left3-25.png") no-repeat; }
+.icon_light.__resize_diagonal-25 {
+  background: url("../images/icon_set/25/Arrows/resize_diagonal-25.png") no-repeat; }
+.icon_light.__resize_four_directions-25 {
+  background: url("../images/icon_set/25/Arrows/resize_four_directions-25.png") no-repeat; }
+.icon_light.__resize_horizontal-25 {
+  background: url("../images/icon_set/25/Arrows/resize_horizontal-25.png") no-repeat; }
+.icon_light.__resize_vertical-25 {
+  background: url("../images/icon_set/25/Arrows/resize_vertical-25.png") no-repeat; }
+.icon_light.__right-25 {
+  background: url("../images/icon_set/25/Arrows/right-25.png") no-repeat; }
+.icon_light.__right2-25 {
+  background: url("../images/icon_set/25/Arrows/right2-25.png") no-repeat; }
+.icon_light.__right3-25 {
+  background: url("../images/icon_set/25/Arrows/right3-25.png") no-repeat; }
+.icon_light.__split_horizontal-25 {
+  background: url("../images/icon_set/25/Arrows/split_horizontal-25.png") no-repeat; }
+.icon_light.__split_vertical-25 {
+  background: url("../images/icon_set/25/Arrows/split_vertical-25.png") no-repeat; }
+.icon_light.__up_left-25 {
+  background: url("../images/icon_set/25/Arrows/up_left-25.png") no-repeat; }
+.icon_light.__up_right-25 {
+  background: url("../images/icon_set/25/Arrows/up_right-25.png") no-repeat; }
+.icon_light.__up-25 {
+  background: url("../images/icon_set/25/Arrows/up-25.png") no-repeat; }
+.icon_light.__up2-25 {
+  background: url("../images/icon_set/25/Arrows/up2-25.png") no-repeat; }
+.icon_light.__up3-25 {
+  background: url("../images/icon_set/25/Arrows/up3-25.png") no-repeat; }
+.icon_light.__up4-25 {
+  background: url("../images/icon_set/25/Arrows/up4-25.png") no-repeat; }
+
+/* Black */
+.black .icon_light.__user_male-25 {
+  background: url("../images/icon_set_black/25/Users/user_male-25.png") no-repeat; }
+.black .icon_light.__user_female-25 {
+  background: url("../images/icon_set_black/25/Users/user_female-25.png") no-repeat; }
+.black .icon_light.__user_male2-25 {
+  background: url("../images/icon_set_black/25/Users/user_male2-25.png") no-repeat; }
+.black .icon_light.__user_female2-25 {
+  background: url("../images/icon_set_black/25/Users/user_female2-25.png") no-repeat; }
+.black .icon_light.__user_male3-25 {
+  background: url("../images/icon_set_black/25/Users/user_male3-25.png") no-repeat; }
+.black .icon_light.__user_female3-25 {
+  background: url("../images/icon_set_black/25/Users/user_female3-25.png") no-repeat; }
+.black .icon_light.__add_user-25 {
+  background: url("../images/icon_set_black/25/Users/add_user-25.png") no-repeat; }
+.black .icon_light.__administrator-25 {
+  background: url("../images/icon_set_black/25/Users/administrator-25.png") no-repeat; }
+.black .icon_light.__change_user-25 {
+  background: url("../images/icon_set_black/25/Users/change_user-25.png") no-repeat; }
+.black .icon_light.__checked_user-25 {
+  background: url("../images/icon_set_black/25/Users/checked_user-25.png") no-repeat; }
+.black .icon_light.__conference-25 {
+  background: url("../images/icon_set_black/25/Users/conference-25.png") no-repeat; }
+.black .icon_light.__edit_user-25 {
+  background: url("../images/icon_set_black/25/Users/edit_user-25.png") no-repeat; }
+.black .icon_light.__find_user-25 {
+  background: url("../images/icon_set_black/25/Users/find_user-25.png") no-repeat; }
+.black .icon_light.__group-25 {
+  background: url("../images/icon_set_black/25/Users/group-25.png") no-repeat; }
+.black .icon_light.__lifecycle-25 {
+  background: url("../images/icon_set_black/25/Users/lifecycle-25.png") no-repeat; }
+.black .icon_light.__remove_user-25 {
+  background: url("../images/icon_set_black/25/Users/remove_user-25.png") no-repeat; }
+.black .icon_light.__talk-25 {
+  background: url("../images/icon_set_black/25/Users/talk-25.png") no-repeat; }
+.black .icon_light.__student2-25 {
+  background: url("../images/icon_set_black/25/Users/student2-25.png") no-repeat; }
+.black .icon_light.__zoom_out-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/zoom_out-25.png") no-repeat; }
+.black .icon_light.__zoom_in-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/zoom_in-25.png") no-repeat; }
+.black .icon_light.__upload-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/upload-25.png") no-repeat; }
+.black .icon_light.__upload_to_cloud-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/upload_to_cloud-25.png") no-repeat; }
+.black .icon_light.__upload_to_cloud_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/upload_to_cloud_filled-25.png") no-repeat; }
+.black .icon_light.__upload_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/upload_filled-25.png") no-repeat; }
+.black .icon_light.__update-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/update-25.png") no-repeat; }
+.black .icon_light.__unlock-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/unlock-25.png") no-repeat; }
+.black .icon_light.__unlock_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/unlock_filled-25.png") no-repeat; }
+.black .icon_light.__undo-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/undo-25.png") no-repeat; }
+.black .icon_light.__tones-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/tones-25.png") no-repeat; }
+.black .icon_light.__tones_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/tones_filled-25.png") no-repeat; }
+.black .icon_light.__speech_bubble-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/speech_bubble-25.png") no-repeat; }
+.black .icon_light.__speech_bubble_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/speech_bubble_filled-25.png") no-repeat; }
+.black .icon_light.__shared-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/shared-25.png") no-repeat; }
+.black .icon_light.__shared_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/shared_filled-25.png") no-repeat; }
+.black .icon_light.__share-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/share-25.png") no-repeat; }
+.black .icon_light.__settings-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/settings-25.png") no-repeat; }
+.black .icon_light.__settings_wrench-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/settings_wrench-25.png") no-repeat; }
+.black .icon_light.__settings_wrench_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/settings_wrench_filled-25.png") no-repeat; }
+.black .icon_light.__settings_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/settings_filled-25.png") no-repeat; }
+.black .icon_light.__search-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/search-25.png") no-repeat; }
+.black .icon_light.__reload-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/reload-25.png") no-repeat; }
+.black .icon_light.__redo-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/redo-25.png") no-repeat; }
+.black .icon_light.__paper_clip-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/paper_clip-25.png") no-repeat; }
+.black .icon_light.__opened_folder-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/opened_folder-25.png") no-repeat; }
+.black .icon_light.__opened_folder_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/opened_folder_filled-25.png") no-repeat; }
+.black .icon_light.__lock-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/lock-25.png") no-repeat; }
+.black .icon_light.__lock_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/lock_filled-25.png") no-repeat; }
+.black .icon_light.__key-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/key-25.png") no-repeat; }
+.black .icon_light.__key_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/key_filled-25.png") no-repeat; }
+.black .icon_light.__home-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/home-25.png") no-repeat; }
+.black .icon_light.__home_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/home_filled-25.png") no-repeat; }
+.black .icon_light.__folder-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/folder-25.png") no-repeat; }
+.black .icon_light.__folder_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/folder_filled-25.png") no-repeat; }
+.black .icon_light.__flag-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/flag-25.png") no-repeat; }
+.black .icon_light.__flag_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/flag_filled-25.png") no-repeat; }
+.black .icon_light.__download-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/download-25.png") no-repeat; }
+.black .icon_light.__download_from_cloud-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/download_from_cloud-25.png") no-repeat; }
+.black .icon_light.__download_from_cloud_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/download_from_cloud_filled-25.png") no-repeat; }
+.black .icon_light.__download_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/download_filled-25.png") no-repeat; }
+.black .icon_light.__document-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/document-25.png") no-repeat; }
+.black .icon_light.__document_filled-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/document_filled-25.png") no-repeat; }
+.black .icon_light.__close-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/close-25.png") no-repeat; }
+.black .icon_light.__checkmark-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/checkmark-25.png") no-repeat; }
+.black .icon_light.__cancel-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/cancel-25.png") no-repeat; }
+.black .icon_light.__bookmark-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/bookmark-25.png") no-repeat; }
+.black .icon_light.__about-25 {
+  background: url("../images/icon_set_black/25/Very_Basic/about-25.png") no-repeat; }
+.black .icon_light.__alarm_clock-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/alarm_clock-25.png") no-repeat; }
+.black .icon_light.__clock-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/clock-25.png") no-repeat; }
+.black .icon_light.__calendar-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/calendar-25.png") no-repeat; }
+.black .icon_light.__today-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/today-25.png") no-repeat; }
+.black .icon_light.__date_from-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/date_from-25.png") no-repeat; }
+.black .icon_light.__date_to-25 {
+  background: url("../images/icon_set_black/25/Time_and_Date/date_to-25.png") no-repeat; }
+.black .icon_light.__cut_paper-25 {
+  background: url("../images/icon_set_black/25/Printing/cut_paper-25.png") no-repeat; }
+.black .icon_light.__feed_paper-25 {
+  background: url("../images/icon_set_black/25/Printing/feed_paper-25.png") no-repeat; }
+.black .icon_light.__printer_door_open-25 {
+  background: url("../images/icon_set_black/25/Printing/printer_door_open-25.png") no-repeat; }
+.black .icon_light.__printer_error-25 {
+  background: url("../images/icon_set_black/25/Printing/printer_error-25.png") no-repeat; }
+.black .icon_light.__printer_maintenance-25 {
+  background: url("../images/icon_set_black/25/Printing/printer_maintenance-25.png") no-repeat; }
+.black .icon_light.__printer_out_of_paper-25 {
+  background: url("../images/icon_set_black/25/Printing/printer_out_of_paper-25.png") no-repeat; }
+.black .icon_light.__switch_camera-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/switch_camera-25.png") no-repeat; }
+.black .icon_light.__switch_camera_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/switch_camera_filled-25.png") no-repeat; }
+.black .icon_light.__stack_of_photos-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/stack_of_photos-25.png") no-repeat; }
+.black .icon_light.__stack_of_photos-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/stack_of_photos-25.png") no-repeat; }
+.black .icon_light.__small_lens-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/small_lens-25.png") no-repeat; }
+.black .icon_light.__small_lens_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/small_lens_filled-25.png") no-repeat; }
+.black .icon_light.__slr_camera-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/slr_camera-25.png") no-repeat; }
+.black .icon_light.__slr_camera_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/slr_camera_filled-25.png") no-repeat; }
+.black .icon_light.__slr_back_side-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/slr_back_side-25.png") no-repeat; }
+.black .icon_light.__slr_back_side_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/slr_back_side_filled-25.png") no-repeat; }
+.black .icon_light.__rotate_camera-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/rotate_camera-25.png") no-repeat; }
+.black .icon_light.__rotate_camera_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/rotate_camera_filled-25.png") no-repeat; }
+.black .icon_light.__remove_image-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/remove_image-25.png") no-repeat; }
+.black .icon_light.__remove_image_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/remove_image_filled-25.png") no-repeat; }
+.black .icon_light.__old_time_camera-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/old_time_camera-25.png") no-repeat; }
+.black .icon_light.__old_time_camera_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/old_time_camera_filled-25.png") no-repeat; }
+.black .icon_light.__large_lens-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/large_lens-25.png") no-repeat; }
+.black .icon_light.__large_lens_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/large_lens_filled-25.png") no-repeat; }
+.black .icon_light.__add_image_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/add_image_filled-25.png") no-repeat; }
+.black .icon_light.__add_image-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/add_image-25.png") no-repeat; }
+.black .icon_light.__cable_release-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/cable_release-25.png") no-repeat; }
+.black .icon_light.__camcoder_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/camcoder_filled-25.png") no-repeat; }
+.black .icon_light.__camcoder_pro_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/camcoder_pro_filled-25.png") no-repeat; }
+.black .icon_light.__camcoder_pro-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/camcoder_pro-25.png") no-repeat; }
+.black .icon_light.__clipperboard-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/clipperboard-25.png") no-repeat; }
+.black .icon_light.__edit_image_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/edit_image_filled-25.png") no-repeat; }
+.black .icon_light.__edit_image-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/edit_image-25.png") no-repeat; }
+.black .icon_light.__gallery_filled-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/gallery_filled-25.png") no-repeat; }
+.black .icon_light.__gallery-25 {
+  background: url("../images/icon_set_black/25/Photo_Video/gallery-25.png") no-repeat; }
+.black .icon_light.__align_center-25 {
+  background: url("../images/icon_set_black/25/Editing/align_center-25.png") no-repeat; }
+.black .icon_light.__align_justify-25 {
+  background: url("../images/icon_set_black/25/Editing/align_justify-25.png") no-repeat; }
+.black .icon_light.__align_left-25 {
+  background: url("../images/icon_set_black/25/Editing/align_left-25.png") no-repeat; }
+.black .icon_light.__align_right-25 {
+  background: url("../images/icon_set_black/25/Editing/align_right-25.png") no-repeat; }
+.black .icon_light.__uppercase-25 {
+  background: url("../images/icon_set_black/25/Editing/uppercase-25.png") no-repeat; }
+.black .icon_light.__underline-25 {
+  background: url("../images/icon_set_black/25/Editing/underline-25.png") no-repeat; }
+.black .icon_light.__type-25 {
+  background: url("../images/icon_set_black/25/Editing/type-25.png") no-repeat; }
+.black .icon_light.__strikethrough-25 {
+  background: url("../images/icon_set_black/25/Editing/strikethrough-25.png") no-repeat; }
+.black .icon_light.__lowercase-25 {
+  background: url("../images/icon_set_black/25/Editing/lowercase-25.png") no-repeat; }
+.black .icon_light.__decrease_font-25 {
+  background: url("../images/icon_set_black/25/Editing/decrease_font-25.png") no-repeat; }
+.black .icon_light.__generic_text-25 {
+  background: url("../images/icon_set_black/25/Editing/generic_text-25.png") no-repeat; }
+.black .icon_light.__increase_font-25 {
+  background: url("../images/icon_set_black/25/Editing/increase_font-25.png") no-repeat; }
+.black .icon_light.__rotation_ccw-25 {
+  background: url("../images/icon_set_black/25/Editing/rotation_ccw-25.png") no-repeat; }
+.black .icon_light.__rotation_cw-25 {
+  background: url("../images/icon_set_black/25/Editing/rotation_cw-25.png") no-repeat; }
+.black .icon_light.__cut-25 {
+  background: url("../images/icon_set_black/25/Editing/cut-25.png") no-repeat; }
+.black .icon_light.__crop-25 {
+  background: url("../images/icon_set_black/25/Editing/crop-25.png") no-repeat; }
+.black .icon_light.__wallet-25 {
+  background: url("../images/icon_set_black/25/Finance/wallet-25.png") no-repeat; }
+.black .icon_light.__visa_copyrighted-25 {
+  background: url("../images/icon_set_black/25/Finance/visa_copyrighted-25.png") no-repeat; }
+.black .icon_light.__credit_card-25 {
+  background: url("../images/icon_set_black/25/Finance/credit_card-25.png") no-repeat; }
+.black .icon_light.__card_inserting-25 {
+  background: url("../images/icon_set_black/25/Finance/card_inserting-25.png") no-repeat; }
+.black .icon_light.__card_in_use-25 {
+  background: url("../images/icon_set_black/25/Finance/card_in_use-25.png") no-repeat; }
+.black .icon_light.__banknotes-25 {
+  background: url("../images/icon_set_black/25/Finance/banknotes-25.png") no-repeat; }
+.black .icon_light.__thumb_down-25 {
+  background: url("../images/icon_set_black/25/Hands/thumb_down-25.png") no-repeat; }
+.black .icon_light.__thumb_up-25 {
+  background: url("../images/icon_set_black/25/Hands/thumb_up-25.png") no-repeat; }
+.black .icon_light.__left_click-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/left_click-25.png") no-repeat; }
+.black .icon_light.__right_click-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/right_click-25.png") no-repeat; }
+.black .icon_light.__mouse-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/mouse-25.png") no-repeat; }
+.black .icon_light.__scrolling-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/scrolling-25.png") no-repeat; }
+.black .icon_light.__print-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/print-25.png") no-repeat; }
+.black .icon_light.__micro-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/micro-25.png") no-repeat; }
+.black .icon_light.__video_camera-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/video_camera-25.png") no-repeat; }
+.black .icon_light.__wacom_tablet-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/wacom_tablet-25.png") no-repeat; }
+.black .icon_light.__web_camera-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/web_camera-25.png") no-repeat; }
+.black .icon_light.__keyboard-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/keyboard-25.png") no-repeat; }
+.black .icon_light.__laptop-25 {
+  background: url("../images/icon_set_black/25/Computer_Hardware/laptop-25.png") no-repeat; }
+.black .icon_light.__back-25 {
+  background: url("../images/icon_set_black/25/Arrows/back-25.png") no-repeat; }
+.black .icon_light.__down_left-25 {
+  background: url("../images/icon_set_black/25/Arrows/down_left-25.png") no-repeat; }
+.black .icon_light.__down_right-25 {
+  background: url("../images/icon_set_black/25/Arrows/down_right-25.png") no-repeat; }
+.black .icon_light.__down-25 {
+  background: url("../images/icon_set_black/25/Arrows/down-25.png") no-repeat; }
+.black .icon_light.__down2-25 {
+  background: url("../images/icon_set_black/25/Arrows/down2-25.png") no-repeat; }
+.black .icon_light.__down3-25 {
+  background: url("../images/icon_set_black/25/Arrows/down3-25.png") no-repeat; }
+.black .icon_light.__down4-25 {
+  background: url("../images/icon_set_black/25/Arrows/down4-25.png") no-repeat; }
+.black .icon_light.__forward-25 {
+  background: url("../images/icon_set_black/25/Arrows/forward-25.png") no-repeat; }
+.black .icon_light.__left-25 {
+  background: url("../images/icon_set_black/25/Arrows/left-25.png") no-repeat; }
+.black .icon_light.__left2-25 {
+  background: url("../images/icon_set_black/25/Arrows/left2-25.png") no-repeat; }
+.black .icon_light.__left3-25 {
+  background: url("../images/icon_set_black/25/Arrows/left3-25.png") no-repeat; }
+.black .icon_light.__resize_diagonal-25 {
+  background: url("../images/icon_set_black/25/Arrows/resize_diagonal-25.png") no-repeat; }
+.black .icon_light.__resize_four_directions-25 {
+  background: url("../images/icon_set_black/25/Arrows/resize_four_directions-25.png") no-repeat; }
+.black .icon_light.__resize_horizontal-25 {
+  background: url("../images/icon_set_black/25/Arrows/resize_horizontal-25.png") no-repeat; }
+.black .icon_light.__resize_vertical-25 {
+  background: url("../images/icon_set_black/25/Arrows/resize_vertical-25.png") no-repeat; }
+.black .icon_light.__right-25 {
+  background: url("../images/icon_set_black/25/Arrows/right-25.png") no-repeat; }
+.black .icon_light.__right2-25 {
+  background: url("../images/icon_set_black/25/Arrows/right2-25.png") no-repeat; }
+.black .icon_light.__right3-25 {
+  background: url("../images/icon_set_black/25/Arrows/right3-25.png") no-repeat; }
+.black .icon_light.__split_horizontal-25 {
+  background: url("../images/icon_set_black/25/Arrows/split_horizontal-25.png") no-repeat; }
+.black .icon_light.__split_vertical-25 {
+  background: url("../images/icon_set_black/25/Arrows/split_vertical-25.png") no-repeat; }
+.black .icon_light.__up_left-25 {
+  background: url("../images/icon_set_black/25/Arrows/up_left-25.png") no-repeat; }
+.black .icon_light.__up_right-25 {
+  background: url("../images/icon_set_black/25/Arrows/up_right-25.png") no-repeat; }
+.black .icon_light.__up-25 {
+  background: url("../images/icon_set_black/25/Arrows/up-25.png") no-repeat; }
+.black .icon_light.__up2-25 {
+  background: url("../images/icon_set_black/25/Arrows/up2-25.png") no-repeat; }
+.black .icon_light.__up3-25 {
+  background: url("../images/icon_set_black/25/Arrows/up3-25.png") no-repeat; }
+.black .icon_light.__up4-25 {
+  background: url("../images/icon_set_black/25/Arrows/up4-25.png") no-repeat; }
+
+/*# sourceMappingURL=icons.css.map */

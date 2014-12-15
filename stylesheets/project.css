@@ -1,0 +1,23 @@
+/* Colors */
+/* /Colors */
+/* Fonts */
+/* /Fonts */
+/* Colors */
+/* /Colors */
+.post {
+  margin-bottom: 96px; }
+
+.post_info {
+  font-family: "PT Serif", serif;
+  margin-bottom: 20px; }
+  .post_info strong {
+    font-family: "PT Sans", sans-serif;
+    font-weight: bold; }
+
+.post_more {
+  text-align: left; }
+
+.post_read {
+  display: none; }
+
+/*# sourceMappingURL=project.css.map */
