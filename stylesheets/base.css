@@ -58,40 +58,6 @@ ul {
 .container {
   max-width: 960px; }
 
-.me {
-  text-align: right; }
-
-.me_photo {
-  border-radius: 50%;
-  display: inline-block;
-  height: 140px;
-  margin-bottom: 12px;
-  overflow: hidden;
-  width: 140px; }
-  .me_photo img {
-    width: 100%; }
-
-.me_description {
-  font-style: italic;
-  font-weight: 100;
-  line-height: 1.4em;
-  margin-bottom: 12px; }
-
-.me_name {
-  font-family: "PT Sans", sans-serif;
-  font-size: 20px;
-  line-height: 25px;
-  margin-bottom: 12px; }
-
-.me_social a {
-  font-size: 24px;
-  margin-left: 6px;
-  text-decoration: none;
-  color: #1a1a1a;
-  line-height: 1.4em; }
-  .me_social a:hover {
-    opacity: 0.8; }
-
 footer {
   text-align: center;
   padding: 24px; }
